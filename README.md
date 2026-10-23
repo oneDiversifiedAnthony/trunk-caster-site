@@ -1,6 +1,6 @@
 # Trunk-Caster pages
 
-Public snapshot of the Trunk-Caster interface, published 2026-10-21 13:55:18 UTC.
+Public snapshot of the Trunk-Caster interface, published 2026-10-23 13:35:02 UTC.
 The runtime and its source live in a private repository; these pages are static copies refreshed when published.
 
 [Open the globe](https://onediversifiedanthony.github.io/trunk-caster-site/)
